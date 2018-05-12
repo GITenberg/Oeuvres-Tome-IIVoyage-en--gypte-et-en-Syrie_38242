@@ -17,6 +17,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Volney
     - http://en.wikipedia.org/wiki/Constantin-Fran%C3%A7ois_Chasseb%C5%93uf
 description: Tome 2 des Œuvres de C. Volney
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38242#Oeuvres-Tome-IIVoyage-en--gypte-et-en-Syrie
 gutenberg_bookshelf: FR Voyages et pays
 gutenberg_issued: '2011-12-07'
 gutenberg_type: Text
