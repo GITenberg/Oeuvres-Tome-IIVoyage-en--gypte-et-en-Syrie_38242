@@ -1,0 +1,36 @@
+_repo: Oeuvres-Tome-IIVoyage-en--gypte-et-en-Syrie_38242
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Volney, C.-F. (Constantin-François)
+    aliases:
+    - Volney, Constantin-François Chasseboeuf, comte de
+    - Volney, C.-F. (Constantin-Francois)
+    birthdate: 1757
+    deathdate: 1820
+    gutenberg_agent_id: '622'
+    url: http://www.gutenberg.org/2009/agents/622
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Volney
+    - http://en.wikipedia.org/wiki/Constantin-Fran%C3%A7ois_Chasseb%C5%93uf
+description: Tome 2 des Œuvres de C. Volney
+gutenberg_bookshelf: FR Voyages et pays
+gutenberg_issued: '2011-12-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38242'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Volney, C.-F. (Constantin-François), 1757-1820 -- Travel -- Syria'
+- !lcsh 'Volney, C.-F. (Constantin-François), 1757-1820 -- Travel -- Egypt'
+- !lcsh 'Egypt -- Description and travel -- Early works to 1800'
+- !lcsh 'Syria -- Description and travel -- Early works to 1800'
+title: Voyage en Égypte et en Syrie - Tome 1
+url: http://www.gutenberg.org/ebooks/38242
